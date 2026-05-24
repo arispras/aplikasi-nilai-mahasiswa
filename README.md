@@ -1,11 +1,16 @@
 APLIKASI NILAI MAHASISWA DENGAN LARAVEL
+by: arispras@gmail.com
 
 Latihan membuat aplikasi dengan framework Laravel.
-Restore Database aplikasi_nilai_mahasiswa.sql
-jalankan aplikasi.
+Tutorial langkah2 pembuatan coding bisa dibaca pada file : "Tutorial Lengkap Membuat Aplikasi Nilai Mahasiswa dengan Laravel.docx" 
 
-User:admin@nilai.com
-pass:admin123
+*Restore Database aplikasi_nilai_mahasiswa.sql 
+*jalankan aplikasi.
+
+User: admin@nilai.com
+pass: admin123
+
+
 
 
 Tampilan screen:
